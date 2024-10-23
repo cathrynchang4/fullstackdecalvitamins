@@ -1,0 +1,27 @@
+*{
+    background-color: pink;
+    color: maroon;
+}
+
+
+h1{
+    color: white;
+}
+
+#idForSomething{
+    color:red;
+}
+
+.class1{
+    color:blue;
+}
+
+img{
+    width: 50vw;
+}
+
+.body{
+    display: flex;
+    flex-direction: column;
+}
+

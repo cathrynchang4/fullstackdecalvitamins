@@ -1,0 +1,43 @@
+html{
+    font-family: "Comic Sans MS";
+}
+
+.heading{
+    font-family: "Papyrus";
+    color: purple;
+}
+
+h1,
+h2 {
+    color: purple;
+    font-family: "Papyrus";
+}
+
+ul{
+    list-style-type: none;
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: inline-block;
+    padding: 16px;
+    margin: 0;
+}
+
+a{
+    color: black;
+}
+
+li:hover {
+    background-color: #AAA;
+}
+
+footer{
+    background-color: #DDD;
+    color: #555;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
